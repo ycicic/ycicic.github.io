@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://blog.ycicic.com/2020/12/31/cordova/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/2020/12/29/rocketMQ/</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/tags/index.html</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/categories/index.html</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://blog.ycicic.com/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://blog.ycicic.com/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/tags/Android/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/tags/RocketMQ/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ycicic.com/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://blog.ycicic.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-01-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
